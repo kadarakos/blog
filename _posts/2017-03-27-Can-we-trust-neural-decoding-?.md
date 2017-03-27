@@ -55,3 +55,5 @@ Davis and Poldrack ([2013], p. 120) state that:
 An example is Williams et al. ([2008] presented simple object exemplars in the visual periphery, and found that object shape could be decoded from foveal V1.
 
 ## Theoretical basis for the Decoders Dictum
+Let us take the informal statement as the theoretical basis:
+> if we can decode, we have reasonably strong evidence about what is represented in the measured patterns of neural activity.
