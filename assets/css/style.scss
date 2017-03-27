@@ -1,0 +1,67 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+p {
+    font-size: 14px;
+}
+
+/*  Link colors   */ 
+a:link {
+    color: #99ccff
+}
+
+a:visited  {
+    color: #99ccff
+}
+
+a:hover {
+    color: hotpink;
+}
+
+/*  Icon animations   */ 
+
+a img {
+    width: 32px;
+    height: 32px;
+    border: 0;
+    -webkit-transition: -webkit-transform 0.5s;
+    transition: transform 0.5s; 
+}
+
+a img:hover {
+    -webkit-transform: rotate(350deg);
+    transform: rotate(350deg);
+}
+
+
+/* CSS3 typwriter madness */
+
+/* GLOBAL STYLES 
+body {
+  background: #333;
+  color: #fff;
+  font-family: monospace;
+  padding-top: 5em;
+  display: flex;
+  justify-content: center;
+}
+*/
+/* DEMO-SPECIFIC STYLES */
+.typewriter h1 {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+   /* border-right: .15em solid orange; The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
