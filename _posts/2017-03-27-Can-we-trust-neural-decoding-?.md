@@ -6,7 +6,7 @@ Neural decoding (ND) is the nicer sounding name of the multivariate pattern anal
 in cognitive neuroscience. First let us take a look at what (ND) is and how it is performed
 in the area of vision.
 
-## Neural decoding in vision
+## Sketch of a Neural Decoding experiment
 
 The idea of ND is to reveal a mapping between neural activity patterns and behavioural or perceptual cues.
 Neural decoding experiments consist of 3 steps:
@@ -30,3 +30,28 @@ Machine Learning methodology is then applied:
 If cassifier performance is statistically better than chance, the patterns for the different
 conditions are considered to be discriminable. 
 
+## Inferences from ND experiments
+
+The ND experiments allow for inferences of the following form:
+
+> Brain region $$X$$ involved in some mental process $$y$$.
+
+The power of ND comes form the fact that if the brain uses population codes - distributed representations -
+, then spatial patterns in neural data that differentiate between conditions are potentially recoverable using 
+MVPA methods.
+
+## The Decoders Dictum
+
+> If information can be decoded from patterns of neural activity, then this provides
+>  strong evidence about what information those patterns represent.
+
+In other words statistically significant decoding results are taken as evidence that
+latent neural patterns encode information about the experimental conditions and therefore
+some behaviural/perceptual phenomena. 
+
+Davis and Poldrack ([2013], p. 120) state that:
+> ‘MVPA focuses on the informational content of activation patterns coded in different regions.’
+
+An example is Williams et al. ([2008] presented simple object exemplars in the visual periphery, and found that object shape could be decoded from foveal V1.
+
+## Theoretical basis for the Decoders Dictum
