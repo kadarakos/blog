@@ -7,7 +7,8 @@ Given image predict where humans are looking
      >
      
 -----
+<br><br>
 
-Saliency estimation moved:
+## Saliency estimation moved:
 - From modeling of low-level visual attention 
 - To the prediction of human eye fixations on images.
