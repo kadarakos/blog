@@ -2,7 +2,7 @@
 
 Given image predict where humans are looking
 
-<img src="http://imagelab.ing.unimore.it/imagelab/uploadedImages/000243.jpg" 
+<img src="http://imagelab.ing.unimore.it/imagelab/uploadedImages/000243.jpg"    
      alt="Mountain View" 
      >
      
@@ -42,7 +42,8 @@ Given image predict where humans are looking
 <br><br>
 
 # Where do models fail?
-<img
-src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/13b6b5b2e96b2b63f0d35f6e91e22a08d2f4e52c/8-Figure6-1.png"
->
+
+<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/13b6b5b2e96b2b63f0d35f6e91e22a08d2f4e52c/8-Figure6-1.png"
+     alt="Mountain View"   
+     >
 
