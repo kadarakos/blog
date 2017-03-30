@@ -105,17 +105,22 @@ Given image generate description
 #### Recovering implicit attention
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/76f83380fe193ae8475e660c1c6b12b60521a29f/5-Figure3-1.png"
      >
-<br><br>
-
-
+     
 ----
 ----
 <br><br>
 
 # Attention matchin human performance?
 
-##### Noun-phrase localization
+#### Best we have: Noun-phrase localization
 
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/0612745dbd292fc0a548a16d39cd73e127faedde/16-Figure12-1.png"
      >
+     
+# We are missing two data sets
+
+### 1. Fixations for situated language comprehension
+### 2. Fixations for situated language production
+
+
 
