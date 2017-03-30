@@ -79,9 +79,13 @@ Very little qualitative exploration:
 # Where do models fail?
 
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/13b6b5b2e96b2b63f0d35f6e91e22a08d2f4e52c/8-Figure6-1.png"
-     alt="Mountain View"   
      >
      
 - Objects of gaze
 - Objects of action
 
+# Image-description generation
+Given image generate description 
+
+<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/11da2d589485685f792a8ac79d4c2e589e5f77bd/0-Figure1-1.png"
+     >
