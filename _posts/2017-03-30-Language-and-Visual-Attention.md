@@ -34,10 +34,9 @@ Natural images as the visual stimuli and eye movements recorded using eyetrackin
 
 | Dataset | Images                  | Observers                                      |
 |---------|-------------------------|------------------------------------------------|
-| MIT300  | 300,indoor and outdoor  | 39 ages: 18-50                                 |
-| CAT2000 | 4000, 20 categories     | 24 per image, ages: 18-27                      |
-| SALICON | 10,000 from MS COCO     | 60 per image                                   |
-| swap    | boolean                 | True if swap needs to be preformed, else False |
+| MIT300  | 300                      | 39 ages: 18-50                                 |
+| CAT2000 | 4000,                    | 24 per image, ages: 18-27                      |
+| SALICON | 10,000                   | 60 per image                                   |
 
 
 # Practical applications
