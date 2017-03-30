@@ -32,12 +32,13 @@ Driven in part by large datasets and benchmarks of human eye movements!
 
 Natural images as the visual stimuli and eye movements recorded using eyetracking
 
-| Dataset | Images                  | Observers                                      |
-|---------|-------------------------|------------------------------------------------|
-| MIT300  | 300                      | 39 ages: 18-50                                 |
-| CAT2000 | 4000,                    | 24 per image, ages: 18-27                      |
-| SALICON | 10,000                   | 60 per image                                   |
+- MIT300, 300 img, indoor-outdoor, 39 observers ages: 18-50
+- CAT2000 4000 img, 20 categories, 24 observer per image, ages: 18-27  
+- SALICON 10,000 img, MS-COCO, 60 observer per image  
 
+----
+----
+<br><br>
 
 # Practical applications
 
