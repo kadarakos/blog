@@ -119,8 +119,8 @@ Given image generate description
      
 # We are missing two data sets
 
-### 1. Fixations for situated language comprehension
-### 2. Fixations for situated language production
+#### 1. Fixations for situated language comprehension
+#### 2. Fixations for situated language production
 
 
 
