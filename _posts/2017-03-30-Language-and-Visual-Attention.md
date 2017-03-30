@@ -84,12 +84,32 @@ Very little qualitative exploration:
 - Objects of gaze
 - Objects of action
 
+----
+----
+<br><br>
+
+
 # Image-description generation
 Given image generate description 
 
-#### Relying on global image understanding
+#### Gobal image features
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/11da2d589485685f792a8ac79d4c2e589e5f77bd/0-Figure1-1.png"
      >
-#### Relying on global+local features
+<br><br>
+
+#### Explicit "attention-module" for local features
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/b955969e1077ca328018c9e4dcf27b87ed9f5076/9-Figure8-1.png"
      >
+<br><br>
+     
+#### Recovering implicit attention
+<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/76f83380fe193ae8475e660c1c6b12b60521a29f/5-Figure3-1.png"
+     >
+<br><br>
+
+
+----
+----
+<br><br>
+
+#  ye
