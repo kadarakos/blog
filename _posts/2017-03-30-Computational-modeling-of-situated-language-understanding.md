@@ -12,3 +12,5 @@ Given image predict where humans are looking
 ## Saliency estimation moved:
 - From modeling of low-level visual attention 
 - To the prediction of human eye fixations on images.
+
+### Driven in part by large datasets and benchmarks of human eye movements!
