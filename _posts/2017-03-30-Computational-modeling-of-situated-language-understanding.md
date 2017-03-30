@@ -1,3 +1,13 @@
+<style>
+@media all {
+	.page-break	{ display: none; }
+}
+
+@media print {
+	.page-break	{ display: block; page-break-before: always; }
+}
+</style>
+
 # Saliency estimation
 
 Given image predict where humans are looking
@@ -6,9 +16,8 @@ Given image predict where humans are looking
      alt="Mountain View" 
      >
      
------
------
-<br><br>
+<div class="page-break"></div>
+
 
 ## Saliency estimation moved:
 - From modeling of low-level visual attention 
@@ -16,15 +25,11 @@ Given image predict where humans are looking
 
 #### Driven in part by large datasets and benchmarks of human eye movements!
 
------
------
-<br><br>
+<div class="page-break"></div>
 
 # Long-story short
 
------
------
-<br><br>
+<div class="page-break"></div>
 
 # Practical applications
 
@@ -32,10 +37,9 @@ Given image predict where humans are looking
 - Compression: thumbnailing, content-aware cropping, content-aware compression
 - Image retrieval
 
------
------
-<br><br>
+<div class="page-break"></div>
+
 
 # Where do models fail?
 
-
+always
