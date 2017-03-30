@@ -112,4 +112,10 @@ Given image generate description
 ----
 <br><br>
 
-#  ye
+# Attention matchin human performance?
+
+##### Noun-phrase localization
+
+<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/0612745dbd292fc0a548a16d39cd73e127faedde/16-Figure12-1.png"
+     >
+
