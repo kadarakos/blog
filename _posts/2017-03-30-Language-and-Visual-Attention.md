@@ -87,5 +87,9 @@ Very little qualitative exploration:
 # Image-description generation
 Given image generate description 
 
+#### Relying on global image understanding
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/11da2d589485685f792a8ac79d4c2e589e5f77bd/0-Figure1-1.png"
+     >
+#### Relying on global+local features
+<img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/b955969e1077ca328018c9e4dcf27b87ed9f5076/9-Figure8-1.png"
      >
