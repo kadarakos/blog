@@ -46,13 +46,26 @@ Bunch of well understood metrics:
 <img
     src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/7df5a52a88a7e84ddb645e8361d2e9aa45449e5f/13-Table6-1.png"
     >
-    
+<br><br>
+
+
 Standard training and validation protocols:
 
 <img
     src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/258fad95e709b6d0572ae6cc99efbbb14d32bdf2/6-Table4-1.png"
     >
+    <br><br>
+
     
+Very little qualitative exploration:
+
+<img
+    src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/258fad95e709b6d0572ae6cc99efbbb14d32bdf2/7-Figure6-1.png"
+    >
+----
+----
+<br><br>
+
 # Practical applications
 
 - Detection: object and motion detection, segmentation
