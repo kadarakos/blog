@@ -76,6 +76,22 @@ Very little qualitative exploration:
 ----
 <br><br>
 
+# Recent solutions
+
+### Pre-trained CNN + learned filters
+
+<img 
+     src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/84059c7cbccfcec177445d97d71cc453ab0f3814/4-Figure2-1.png"
+     >
+
+### Pre-trained CNN + more magic
+
+<img 
+     src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/35c0013af4280842de8dd290337c462c6792211c/2-Figure2-1.png"
+     >
+
+
+
 # Where do models fail?
 
 <img src="https://ai2-s2-public.s3.amazonaws.com/figures/2016-11-08/13b6b5b2e96b2b63f0d35f6e91e22a08d2f4e52c/8-Figure6-1.png"
