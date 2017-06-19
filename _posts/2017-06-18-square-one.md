@@ -1,11 +1,11 @@
 
 
 
-    		      e e e e e   
-	    	      e   e   e   
-		          e e x e e   
-		          e   e   e   
-		          e e e e e   
+    		e e e e e   
+	    	e   e   e   
+		e e x e e   
+		e   e   e   
+		e e e e e   
        
  
 Front step, left step, back step, right step  
