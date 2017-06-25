@@ -1,3 +1,16 @@
+spanish
+--------------------
+
+esococoesococo -->  I'm little again  
+esococoesococe --> I do not understand chinese  
+esococoesecoce --> I do not drink ice  
+esococoesecece --> I do not know the rules  
+esoporroporro  --> That's the problem  
+esotorroesotorrei --> Red-eye racing  
+esotorroesotorrea --> Ball bearing  
+esotorroesotorres --> Racing cars  
+esotorroesotorreo --> Motorboat  
+
 hugarian  
 -----------
 
@@ -34,4 +47,3 @@ swedish
 
 fika gif fika gif --> Coffee gingerbread poison  
 fika gif fika gif bana gif bana --> Cupid Gingerbread Cupid Gingerbread Course
-
