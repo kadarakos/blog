@@ -10,9 +10,9 @@ esotorroesotorrei --> Red-eye racing
 esotorroesotorrea --> Ball bearing  
 esotorroesotorres --> Racing cars  
 esotorroesotorreo --> Motorboat  
-esoquesoesoqueso  --> What is the dream
-esoquesoesoquesoqueso --> That's whats
-quesoqueeso  -->  What are you doing
+esoquesoesoqueso  --> What is the dream   
+esoquesoesoquesoqueso --> That's whats   
+quesoqueeso  -->  What are you doing   
 
 hugarian  
 -----------
