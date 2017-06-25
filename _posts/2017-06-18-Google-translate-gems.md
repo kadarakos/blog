@@ -16,7 +16,8 @@ hugarian
 
 szaszaszasza szaszaszaszaaszaszaszasz -->  Sesame seeds and seashells  
 szasza szasza szasza szasza szasza szasza --> Its a spoonful of spicy sauce  
-zsazsa zsazsazsazsa zsazsazsazsa zsazsa -->  His vice stomach vascular vomiting
+zsazsa zsazsazsazsa zsazsazsazsa zsazsa -->  His vice stomach vascular vomiting  
+zsip zsup kender zsup --> Zippy jupiter hemp shrink
 
 indonesian  
 ---------------
