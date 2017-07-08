@@ -30,7 +30,7 @@ Time passes by ...
 Person: Here is your Jalapeno Asiago Mozzarella Specialty Bagel.  
 Me: That sounds very unappetizing.   
 Person: Can I get you a Ranch, Bacon Chicken Wrap menu instead?  
-Person: It comes with Fries and a drink of you choice!  
+Person: It comes with Fries and a drink of your choice!  
 Me: Can you give me a time machine instead?  
 
 To be continued ...
