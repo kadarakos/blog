@@ -19,9 +19,9 @@ Me: No just the the Wrap and the Latte.
 
 Time passes by ... 
 
-Person: Unfortunately we have no more Latte, can I offer you a Landmawer instead?  
-Me: Landmawer?  
-Person: If you buy 3 Landmawers this week you get a 5 minute lap dance for free.  
+Person: Unfortunately we have no more Latte, can I offer you a Landmower instead?  
+Me: Landmower?  
+Person: If you buy 3 Landmowers this week you get a 5 minute lap dance for free.  
 Me: Can I just get the Wrap?  
 Person: No problem, coming right up!  
 
