@@ -1,4 +1,4 @@
-At Tim Hortons
+At Tim Horton's
 -------------------------------
 
 Person: What can I get you?  
