@@ -14,7 +14,7 @@ Person: Sorry we are out of Fries.
 Me: Its okay.     
 Person: Would you like a doughnut or muffin instead?   
 Me: Muffin?   
-Person: Or ... soup maybe?  
+Person: Soup maybe?  
 Me: No just the the Wrap and the Latte.  
 
 Time passes by ... 
