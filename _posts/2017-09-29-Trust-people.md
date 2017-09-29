@@ -1,5 +1,3 @@
-
-
 I was working for a big organization as a research intern for 5 months. 
 It was the first time I was introduced to highly complex systems of trust and distrust. 
 I have never been faced with the fundamental question of "is it rational to trust a person ?" before.
