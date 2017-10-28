@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ákos Kádár | personal blog</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <id>http://localhost:4000</id>
+ <updated>2017-10-28T22:23:39+02:00</updated>
+ <author>
+   <name>The Review Index</name>
+   <uri>https://thereviewindex.com</uri>
+   <email>a.kadar@uvt.nl</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Trust People</title>
+   <link href="http://localhost:4000/Trust-people"/>
+   <id>http://localhost:4000/Trust-people</id>
+   <updated>2017-09-29T00:00:00+02:00</updated>
+   <content type="html">&lt;p&gt;I was working for a big organization as a research intern for 5 months. It was the first time I was introduced to highly complex systems of trust and distrust. I have never been faced with the fundamental question of “is it rational to trust a person ?” before.&lt;/p&gt; &lt;p&gt;In...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Free</title>
+   <link href="http://localhost:4000/Free"/>
+   <id>http://localhost:4000/Free</id>
+   <updated>2017-08-06T00:00:00+02:00</updated>
+   <content type="html">&lt;p&gt;Are we free? &lt;br /&gt; Do we think we are free? &lt;br /&gt; Do free things think that they are free? &lt;br /&gt; When do we think of something as being free? &lt;br /&gt; What are the kind things that we think of as being free? &lt;br /&gt; How do...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Muffins Are No Fries</title>
+   <link href="http://localhost:4000/Muffins-are-no-Fries"/>
+   <id>http://localhost:4000/Muffins-are-no-Fries</id>
+   <updated>2017-07-08T00:00:00+02:00</updated>
+   <content type="html">&lt;h2 id=&quot;at-tim-hortons&quot;&gt;At Tim Horton’s&lt;/h2&gt; &lt;p&gt;Person: What can I get you?&lt;br /&gt; Me: Can I have a Ranch, Bacon Chicken Wrap with Fries?&lt;br /&gt; Person: Sure, would you like anything to drink?&lt;br /&gt; Me: A latte.&lt;br /&gt; Person: Cold or warm?&lt;br /&gt; Me: Hot.&lt;/p&gt; &lt;p&gt;Time passes by …&lt;/p&gt; &lt;p&gt;Person: Sorry we...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Square One</title>
+   <link href="http://localhost:4000/square-one"/>
+   <id>http://localhost:4000/square-one</id>
+   <updated>2017-06-18T00:00:00+02:00</updated>
+   <content type="html">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; e e e e e e e e e e x e e e e e e e e e e &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt; &lt;p&gt;Front step, left step, back step, right step&lt;br /&gt; Back step, left step, front step, right step&lt;br /&gt; Back step, right step, front step,...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Google Translate Gems</title>
+   <link href="http://localhost:4000/Google-translate-gems"/>
+   <id>http://localhost:4000/Google-translate-gems</id>
+   <updated>2017-06-18T00:00:00+02:00</updated>
+   <content type="html">&lt;h2 id=&quot;spanish&quot;&gt;spanish&lt;/h2&gt; &lt;p&gt;esococoesococo –&amp;gt; I’m little again&lt;br /&gt; esococoesococe –&amp;gt; I do not understand chinese&lt;br /&gt; esococoesecoce –&amp;gt; I do not drink ice&lt;br /&gt; esococoesecece –&amp;gt; I do not know the rules&lt;br /&gt; esoporroporro –&amp;gt; That’s the problem&lt;br /&gt; esotorroesotorrei –&amp;gt; Red-eye racing&lt;br /&gt; esotorroesotorrea –&amp;gt; Ball bearing&lt;br /&gt; esotorroesotorres...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Mystery Post</title>
+   <link href="http://localhost:4000/Mystery-post"/>
+   <id>http://localhost:4000/Mystery-post</id>
+   <updated>2012-09-12T00:00:00+02:00</updated>
+   <content type="html">&lt;p&gt;I’ll write this post using the following material:&lt;/p&gt;
+
+&lt;p&gt;https://plato.stanford.edu/entries/science-theory-observation/
+http://philsci-archive.pitt.edu/12915/1/Decoding%20Manuscript_Revised_Web.pdf
+https://elifesciences.org/content/6/e21397
+https://seop.illc.uva.nl/entries/models-science/
+http://www.sciencedirect.com/science/article/pii/S1053811916308059&lt;/p&gt;
+</content>
+ </entry>
+
+ 
+
+</feed>
