@@ -31,5 +31,5 @@ evidence. The cool thing about McGeer's suggestions is that I also update the re
 My personal experience tells me that McGeer's observation is actually symmetric: 
 distrusting people decreases their levels of trustworthiness. I find this a great argument in favor of trust. 
 Hope you do too.
-<iframe src="https://www.chatcrypt.com/iframe.php" width="468" height="60" frameborder="0"></iframe>
+<iframe src="https://www.chatstep.com/#wabisabi" width="500" height="500" frameborder="0"></iframe>
 
