@@ -31,5 +31,5 @@ Time passes by ...
 **Me**: That sounds very unappetizing.   
 **Person**: Can I get you a Ranch, Bacon Chicken Wrap menu instead?  
 **Person**: It comes with Fries and a drink of your choice!  
-**Me**: Can you give me a time machine instead?  
+**Me**: Can you get me a time machine instead?  
 
