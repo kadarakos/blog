@@ -25,7 +25,8 @@ morning workout days:
 - Eat simple ass breakfast (cook eggs or just sandwich) until 8:30.
 - Get ready and leave by 8:45
 
-On **Tuesday** and **Thursday** I just wake up at 8:00 and eat some stuff, enjoy my life until 8:45. 
+On **Tuesday** and **Thursday** I just wake up at 8:00 and eat some stuff, enjoy my life and talk
+to bunbunz until 8:45 (maybe talk to her on the way, yaaay). 
 
 
 ## Work time
@@ -46,6 +47,10 @@ On **Monday**, **Wedneday** and **Friday** I'm already done with the workouts so
 
 On **Tuesday** and **Thursday** since I didn't have my morning workout its quite different:
 
+1. Buy some food and eat it until 7:30
+2. Go to the gym at 8:30. 
+3. Do one of my bigger workouts until 9:30-10pm.
+4. Take a bath and enjoy whats left until 11pm.
 
 
 ## Weekend chores
