@@ -11,10 +11,14 @@ morning workouts so that I need not to be super motivated in my depressed times.
 ## Morning routine
 
 My morning routine so far comprised of waking up too late, listening to music anyway and going to work.
-This time around I'll attempt to implement a routine following more or less this 
-[guy](https://www.youtube.com/watch?v=l-0nIUllziA):
+This time around I'll attempt to implement an actual routine:
 
-1. Wake up at 6:30
-2. Put on [gentle music](https://www.youtube.com/watch?v=zreVOAijs2Y)
-2. Make [these oats](https://www.youtube.com/watch?v=2tF3ddR81V4)
-3. 
+1. 6:00 wake up (already scared).
+2. Wash my face.
+3. Put on some [gentle music](https://www.youtube.com/watch?v=zreVOAijs2Y).
+4. Drink water.
+5. Put on some fucking asian packet soup.
+6. 6:30ish start eating.
+7. 7:15 go to the gym.
+8. 8:15 leave the gym.
+9. 
