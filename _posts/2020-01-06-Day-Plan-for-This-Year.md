@@ -11,14 +11,34 @@ morning workouts so that I need not to be super motivated in my depressed times.
 ## Morning routine
 
 My morning routine so far comprised of waking up too late, listening to music anyway and going to work.
-This time around I'll attempt to implement an actual routine:
+This time around I'll attempt to implement an actual routine. **Monday**, **Wedneday** and **Friday** are the
+morning workout days:
 
-1. 6:00 wake up (already scared).
+1. 7:00 wake up.
 2. Wash my face.
 3. Put on some [gentle music](https://www.youtube.com/watch?v=zreVOAijs2Y).
 4. Drink water.
-5. Put on some fucking asian packet soup.
-6. 6:30ish start eating.
-7. 7:15 go to the gym.
-8. 8:15 leave the gym.
-9. 
+5. 7:15 go to the gym.
+6. Warm up until kinda 7:30.
+7. Rowing machine, pushup, pullup, lunges, and some core shit until 8:00
+8. Shower until 8:15.
+9. Eat simple ass breakfast (cook eggs or just sandwich) until 8:30.
+10. Get ready and leave by 8:45
+
+On **Tuesday** and **Thursday** I just wake up at 8:00 and eat some stuff, enjoy my life until 8:45. 
+
+
+## Work time
+Work from like 9-9:30 to 6pm.
+
+## Night time
+
+On **Monday**, **Wedneday** and **Friday** I'm already done with the workouts so thats nice:
+
+1. 
+
+## Weekend chores
+
+1. Shop for food and stuff.
+2. Clean bathroom
+
