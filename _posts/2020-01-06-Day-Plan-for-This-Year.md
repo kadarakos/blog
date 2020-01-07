@@ -20,6 +20,14 @@ The main goals of this experiment are:
 - Have more time for my passion projects.
 - Enable myself to plan for vacations and such better.
 
+
+## Weekday strategy
+There are two types of days: one where there is morning workout and then the other when there isn't.
+When there isn't I cook dinner for myself otherwise I buy it or eat what I cooked the day before.
+This also allows me to look forward to either to have a more relaxing morning or evening. Also this
+naturally limits my weed-pill consumption, because I can only have it in the evening on the morning
+workout days.
+
 ## Morning
 
 My morning routine so far comprised of waking up too late, listening to music anyway and going to work.
@@ -79,4 +87,3 @@ On **Tuesday** and **Thursday** since I didn't have my morning workout its quite
 1. Shop for food and stuff.
 2. Clean bathroom
 3. more to come
-
