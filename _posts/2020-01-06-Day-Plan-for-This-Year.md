@@ -56,7 +56,8 @@ to bunbunz until 8:45 (maybe talk to her on the way, yaaay).
 3. Read e-mails and messages until 10:00.
 4. Do work until 12:00.
 5. Go for lunch and finish until 12:30-1pm.
-6. Do work until 5:30pm.
+6. Do work until 3:00pm.
+7. Have a 15-20min break.
 7. From 5:30pm to 6:00pm start finishing things up and plan tasks for the day after.
 
 
