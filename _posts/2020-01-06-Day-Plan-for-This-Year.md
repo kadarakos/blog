@@ -1,14 +1,24 @@
-I find it very hard to stay on track for some reasonable way of living. Moved to Toronto in August, first into an airbnb 
-for way too long. Finally found a place and managed to move into a condo end of October. Since then I had to fly back
-to the Netherlands to defend my PhD middle of November. This was followed up by spending Christmas in Finland 
-with my partner end of December to beginning of January. One of my main plans with moving to Toronto was to finally have a
+I find it very hard to stay on track with a reasonable routine. Eversince I've started my Bachelor's my 
+daily routine has been chaotic. Recently I moved to Toronto in August. First into an airbnb 
+for way too long. Then I've finally found a place and managed to move to a condo end of October.  
+
+Since then I had to fly back to the Netherlands to defend my PhD middle of November. So that is done with.
+This was followed up by spending Christmas in Finland 
+with my partner and her family end of December to beginning of January.   
+
+One of my main plans with moving to Toronto was to finally have a
 normal schedule after the nightmareish PhD lifestyle, but I've failed so far. I've just turned 30 December 30, 2019 and so
 I feel like its a good opportunity to treat myself to another chance in 2020. Don't get me wrong, I think my lifestyle is
 okay, but I feel like I could have a nicer experience in life. In order to achieve just that I came up with a somewhat 
 arbitrary and simple enough plan for my days, that hopefully even I can follow. I decided to go for simple and gentle 
-morning workouts so that I need not to be super motivated in my depressed times. 
+morning workouts so that I need not to be super motivated in my depressed times. The main points of this experiment are:
 
-## Morning routine
+- Feel more control over my life.
+- Be generally more relaxed.
+- Have more time for my passion projects.
+
+
+## Morning
 
 My morning routine so far comprised of waking up too late, listening to music anyway and going to work.
 This time around I'll attempt to implement an actual routine. **Monday**, **Wedneday** and **Friday** are the
@@ -29,21 +39,22 @@ On **Tuesday** and **Thursday** I just wake up at 8:00 and eat some stuff, enjoy
 to bunbunz until 8:45 (maybe talk to her on the way, yaaay). 
 
 
-## Work time
-Work from like 9-9:30 to 6pm.
+## Work
+Work from like 9-9:30 to 6pm. 
 
-## Night time
+## Evening
 
 On **Monday**, **Wedneday** and **Friday** I'm already done with the workouts so thats nice:
 
-1. Cook some sort of dinner by 7:30pm.
-2. Eat.
-3. Deal with kitchen dirt until 8:00.
-4. Vacuum after eating like until 8:30 or do some other cleaning if its more important.
-5. Enjoy my life until 11:00.
-6. Get ready to go to sleep by 12pm.
+1. Optional weed pill when I arrive.
+2. Cook some sort of dinner by 7:30pm.
+3. Eat.
+4. Deal with kitchen dirt until 8:00.
+5. Vacuum after eating like until 8:30 or do some other cleaning if its more important.
+6. Enjoy my life until 11:00.
+7. Get ready to go to sleep by 12pm.
 
-**Friday** night time routine is kinda optional, because I might have some funs instead.   
+These night time routines are optional, because I might go to some meetup or something.
 
 On **Tuesday** and **Thursday** since I didn't have my morning workout its quite different:
 
